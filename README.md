@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenriqueShoiti. just finished my BSc in computer science at VIU.
+- 👋 Hi, I’m @HenriqueShoiti. Finished my BSc in computer science recently.
 - 👀 I’m interested in interesting stuff. Mobile application dev is one of them.
 - 🌱 I’m currently learning react native.
 - 📫 How to reach me ... send a dm on twitter perhaps. @henriqueshoiti
